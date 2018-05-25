@@ -1,6 +1,6 @@
 # ImageColorization
 
-This project aims to solve the problem of Image Colorization.
+We created a semester long project for colorizing the black and white images.
 
 We have attempted to tackle this by using 2 methods:
 1. SVM
